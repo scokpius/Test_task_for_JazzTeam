@@ -13,12 +13,12 @@ public class FunctionTest {
 
     @Test
     public void verifyCalculatingTheCostOfCarInsuranceMin() {
-        function = new Function(3, 0,85);
+        function = new Function(3, 0, 85);
         Assert.assertEquals(MSG,  function.getAuto_insurance_cost(),210,0);
     }
     @Test
     public void verifyCalculatingTheCostOfCarInsurance() {
-        function = new Function(0, 1,140);
-        Assert.assertEquals(MSG,  function.getAuto_insurance_cost(), 651,0);
+        function = new Function(7, 1, 140);
+        Assert.assertEquals(MSG,  function.getAuto_insurance_cost(), 230.99999999999997,0);
     }
 }
