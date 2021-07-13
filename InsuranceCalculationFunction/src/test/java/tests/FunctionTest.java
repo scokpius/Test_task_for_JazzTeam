@@ -9,7 +9,6 @@ public class FunctionTest {
     private static final String MSG = "Test execution for Function is not correct!";
     private Function function;
 
-
     @Test
     public void verifyCalculatingTheCostOfCarInsuranceMin() {
         function = new Function(3, 0, 85);
