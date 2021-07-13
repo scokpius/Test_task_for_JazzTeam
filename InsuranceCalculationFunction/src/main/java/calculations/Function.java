@@ -1,13 +1,12 @@
 package calculations;
 
-import cars.Car;
-
 import org.apache.log4j.LogManager;
 import org.apache.log4j.Logger;
 import utility.Coefficient;
 
+import cars.*;
 
-public class Function extends Car{
+public class Function {
     private static final int base_rate = 10;
     private static final double auto_insurance_cost_min = 210;
 
@@ -16,7 +15,7 @@ public class Function extends Car{
     private static final Logger LOGGER = LogManager.getLogger(Function.class);
 
     public Function(int driving_experience, int car_accident, int engine_power) {
-        super(driving_experience, car_accident, engine_power);
+        new Car(driving_experience, car_accident, engine_power);
         LOGGER.info("Function for calculating the cost of car insurance.");
         auto_insurance_cost = calculatingTheCostOfCarInsurance(driving_experience, car_accident, engine_power);
         System.out.println(String.format("The cost insurance of car is equals %f rubles.",auto_insurance_cost));

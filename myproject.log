@@ -246,3 +246,29 @@
 2021-07-04 22:38:19,700 DEBUG Coefficient - Selection of coefficient depending on the number of accidents
 2021-07-04 22:38:19,701 DEBUG Coefficient - Selection of the coefficient depending on the engine power
 2021-07-04 22:38:19,706 DEBUG Function - Getting the cost of car insurance
+2021-07-12 22:16:13,666 DEBUG Coefficient - Selection of the coefficient depending on the driving experience
+2021-07-12 22:16:13,677 DEBUG Coefficient - Selection of the coefficient depending on the driving experience
+2021-07-12 22:16:13,682 DEBUG Coefficient - Selection of coefficient depending on the number of accidents
+2021-07-12 22:16:13,689 DEBUG Coefficient - Selection of the coefficient depending on the driving experience
+2021-07-12 22:16:13,695 DEBUG Coefficient - Selection of the coefficient depending on the driving experience
+2021-07-12 22:16:13,699 DEBUG Coefficient - Selection of coefficient depending on the number of accidents
+2021-07-12 22:16:13,702 DEBUG Coefficient - Selection of the coefficient depending on the engine power
+2021-07-12 22:16:13,706 DEBUG Coefficient - Selection of the coefficient depending on the engine power
+2021-07-12 22:16:13,712 DEBUG Coefficient - Selection of the coefficient depending on the engine power
+2021-07-12 22:16:13,715 DEBUG Coefficient - Selection of the coefficient depending on the engine power
+2021-07-12 22:16:13,720 DEBUG Coefficient - Selection of coefficient depending on the number of accidents
+2021-07-12 22:16:13,731 DEBUG Coefficient - Selection of coefficient depending on the number of accidents
+2021-07-12 22:16:13,754 DEBUG Coefficient - Selection of the coefficient depending on the engine power
+2021-07-12 22:16:13,759 DEBUG Coefficient - Selection of the coefficient depending on the engine power
+2021-07-12 22:16:13,790  INFO Function - Function for calculating the cost of car insurance.
+2021-07-12 22:16:13,791  INFO Function - Calculating the cost of car insurance.
+2021-07-12 22:16:13,792 DEBUG Coefficient - Selection of the coefficient depending on the driving experience
+2021-07-12 22:16:13,792 DEBUG Coefficient - Selection of coefficient depending on the number of accidents
+2021-07-12 22:16:13,792 DEBUG Coefficient - Selection of the coefficient depending on the engine power
+2021-07-12 22:16:13,807 DEBUG Function - Getting the cost of car insurance
+2021-07-12 22:16:13,812  INFO Function - Function for calculating the cost of car insurance.
+2021-07-12 22:16:13,812  INFO Function - Calculating the cost of car insurance.
+2021-07-12 22:16:13,813 DEBUG Coefficient - Selection of the coefficient depending on the driving experience
+2021-07-12 22:16:13,813 DEBUG Coefficient - Selection of coefficient depending on the number of accidents
+2021-07-12 22:16:13,813 DEBUG Coefficient - Selection of the coefficient depending on the engine power
+2021-07-12 22:16:13,814 DEBUG Function - Getting the cost of car insurance

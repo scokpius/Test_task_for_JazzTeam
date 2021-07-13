@@ -1,10 +1,9 @@
 package tests;
 
 
-import org.junit.Test;
 import org.junit.Assert;
+import org.junit.Test;
 import utility.Coefficient;
-
 
 
 public class CoefficientTest {

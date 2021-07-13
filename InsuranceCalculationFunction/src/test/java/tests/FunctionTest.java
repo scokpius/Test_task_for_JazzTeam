@@ -5,7 +5,6 @@ import org.junit.Assert;
 import org.junit.Test;
 
 
-
 public class FunctionTest {
     private static final String MSG = "Test execution for Function is not correct!";
     private Function function;
